@@ -5,7 +5,7 @@ The code samples are available in AWS official documentation and necessary chang
 
 All 3 programs in the project can be run seperately. 
 
-Below mentioned parameter needs to be changed before running the program as they are specific to users AWS configuration:
+Following parameter needs to be changed before running the program as they are specific to users AWS configuration:
 bucket,
 video,
 queueUrl,
